@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 Test branch management policy
 test bug
 test branch
-
+test unstage
